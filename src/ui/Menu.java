@@ -12,6 +12,7 @@ public class Menu {
 
     public void wyswietlMenu() {
 
+    	  
         Sklep sklep = new Sklep("www.sklep.com");
 
         Scanner skaner = new Scanner(System.in);
